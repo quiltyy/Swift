@@ -1,0 +1,5 @@
+API Key: 46782c9160d4d2d9e59a69c31cf1f17e
+
+Request Example: https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=46782c9160d4d2d9e59a69c31cf1f17e&units=imperial
